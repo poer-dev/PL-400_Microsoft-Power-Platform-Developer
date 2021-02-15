@@ -23,7 +23,7 @@ Exercise 1 – Acquire your Power Platform trial tenant
 
 1. Copy your **Microsoft 365 credentials** provided by your trainer.
 
-2. Navigate to <powerapps.microsoft.com> and click **Start free.**
+2. Use a new profile in your browser or open incognito mode and then navigate to <powerapps.microsoft.com> and click **Start free.**
 
 3. Under **Work email**, enter the email address from your Microsoft 365 credentials.
 
