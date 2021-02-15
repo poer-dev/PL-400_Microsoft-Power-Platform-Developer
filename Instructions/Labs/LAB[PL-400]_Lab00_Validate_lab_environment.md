@@ -33,6 +33,8 @@ Exercise 1 – Acquire your Power Platform trial tenant
 
 6. Select **Yes** to stay signed in.
 
+7. Click Start if asked.
+
 
 Exercise 2 - Create your environment 
 ------------------------------------------
